@@ -18,6 +18,7 @@ common warnings
 library
     import:           warnings
     exposed-modules:  Playground
+                      RedBlackTree
     -- other-modules:
     -- other-extensions:
     build-depends:    base ^>=4.21.0.0
